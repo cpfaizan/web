@@ -9,7 +9,7 @@ h1{
     background-color: blue;
     width: auto;
     height: 1100px;
-    background-image: url('https://cdn.pixabay.com/photo/2015/04/19/08/33/flower-729512_960_720.jpg 1x, https://cdn.pixabay.com/photo/2015/04/19/08/33/flower-729512_1280.jpg');
+    background-image: url("images/flower.jpg");
     /* background-repeat: no-repeat; */
     background-size: cover;
 
